@@ -2,7 +2,14 @@
 
 # Hey! Nice to see you. 👋
 
-Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer interested in **MERN Stack & GraphQL**.
+# 💫 About Me:  
+🔭 I'm a Full-Stack Web Developer  
+🌱 Currently I am doing Problem Solving  
+🌱 Pursuing B.Tech  
+👯 I’m looking to collaborate on Full Stack projects  
+👨‍💻 All of my projects are available at GitHub  
+💬 Ask me about MERN stack, Nextjs and React Native  
+📫 How to reach me: 22cse.sitbbsr@gmail.com 
 
 ---
 
