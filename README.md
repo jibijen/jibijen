@@ -29,36 +29,6 @@ Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer inte
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jibijen&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibijen&layout=compact&theme=dark)  
 
-## 🚀 Easy GitHub Achievements
-
-### 1. **Stargazer** 🌟
-- I’ve starred some awesome repositories!  
-[![Starred Repos](https://img.shields.io/github/stars/jibijen?style=social)](https://github.com/jibijen?tab=stars)
-
-### 2. **First Commit** 💻
-- I made my first commit! 🎉  
-[![First Commit Badge](https://img.shields.io/badge/First%20Commit-Completed-blue)](https://github.com/jibijen/my-repo)
-
-### 3. **Green Square Streak** 📈
-- I'm building my contribution streak!  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jibijen&theme=react-dark&hide_border=true&area=true)
-
-### 4. **Forking A Repo** 🍴
-- Forked a cool project!  
-[![Forked Repos](https://img.shields.io/github/forks/jibijen?style=social)](https://github.com/jibijen?tab=repositories)
-
-### 5. **Create a Pull Request** 🔄
-- I created a pull request!  
-[![PR Badge](https://img.shields.io/badge/Pull%20Request-Submitted-green)](https://github.com/jibijen/my-repo/pulls)
-
-### 6. **Add a README** 📄
-- Added a README to one of my repos!  
-[![README Badge](https://img.shields.io/badge/README-Added-blue)](https://github.com/jibijen/my-repo)
-
-### 7. **Open an Issue** 📬
-- Opened an issue to suggest a fix or improvement!  
-[![Issue Badge](https://img.shields.io/badge/Issue-Opened-yellow)](https://github.com/jibijen/my-repo/issues)
-
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jibijen&theme=darkhub&no-frame=true&margin-w=5)  
