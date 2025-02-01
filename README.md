@@ -24,25 +24,18 @@ Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer inte
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jibijen&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jibijen&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibijen&layout=compact&theme=dark)  
 
 ---
 
 ## 🔥 Featured Projects  
 | Projects | Stars | Forks | Issues |
 |----------|------|-------|--------|
-| [Expense Tracker](https://github.com/jibijen/CashFlow)) | ⭐ 50 | 🍴 10 | 🐞 2 |
-| [Crypto Tracker](https://github.com/jibijen/crypto-tracker)) | ⭐ 30 | 🍴 5 | 🐞 1 |
-| [Jjob (Job Portal)](https://github.com/jibijen/jjob) | ⭐ 70 | 🍴 15 | 🐞 3 |
-
----
-
-## 📖 My Latest Blog Posts  
-- 📝 [How to Create a Self-Updating GitHub README](https://medium.com/@yourusername/how-to-create-a-self-updating-github-readme-123456)
-- 🛠 [GraphQL for Beginners: Getting Started](https://medium.com/@yourusername/graphql-for-beginners-123456)
-- 🎯 [How to Ace Coding Interviews](https://medium.com/@yourusername/how-to-ace-coding-interviews-123456)
+| [Expense Tracker](https://github.com/jibijen/CashFlow) 
+| [Crypto Tracker](https://github.com/jibijen/crypto-tracker) 
+| [Jjob (Job Portal)](https://github.com/jibijen/jjob) 
 
 ---
 
