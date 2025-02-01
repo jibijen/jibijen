@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer inte
 ## 🔥 Featured Projects  
 | Projects | Stars | Forks | Issues |
 |----------|------|-------|--------|
-| [Expense Tracker](https://github.com/your-username/expense-tracker) | ⭐ 50 | 🍴 10 | 🐞 2 |
-| [Crypto Tracker](https://github.com/your-username/crypto-tracker) | ⭐ 30 | 🍴 5 | 🐞 1 |
-| [Jjob (Job Portal)](https://github.com/your-username/jjob) | ⭐ 70 | 🍴 15 | 🐞 3 |
+| [Expense Tracker](https://github.com/jibijen/CashFlow)) | ⭐ 50 | 🍴 10 | 🐞 2 |
+| [Crypto Tracker](https://github.com/jibijen/crypto-tracker)) | ⭐ 30 | 🍴 5 | 🐞 1 |
+| [Jjob (Job Portal)](https://github.com/jibijen/jjob) | ⭐ 70 | 🍴 15 | 🐞 3 |
 
 ---
 
