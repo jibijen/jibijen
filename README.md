@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer interested in **MERN Stack & GraphQL**.
 
 ---
+![Colorful Line](https://via.placeholder.com/1500x5/HEX-CODE/HEX-CODE?text=)
 
 ## 🚀 About Me  
 - 💻 **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js), GraphQL  
