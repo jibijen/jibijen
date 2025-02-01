@@ -1,16 +1,7 @@
 ![GitHub Octocat](https://media.giphy.com/media/4Zo41lhzKt6iZ8xFq6/giphy.gif)
 
 # Hey! Nice to see you. 👋
-
-# 💫 About Me:  
-🔭 I'm a Full-Stack Web Developer  
-🌱 Currently I am doing Problem Solving  
-🌱 Pursuing B.Tech  
-👯 I’m looking to collaborate on Full Stack projects  
-👨‍💻 All of my projects are available at GitHub  
-💬 Ask me about MERN stack, Nextjs and React Native  
-📫 How to reach me: 22cse.sitbbsr@gmail.com 
-
+This is jibitesh jena....
 ---
 
 ## 🚀 About Me  
