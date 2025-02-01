@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer inte
 ---
 
 ## 💬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jibitesh-jena-072102248/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jibitesh-jena-072102248/))  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/JibiteshJ))  
  
 
