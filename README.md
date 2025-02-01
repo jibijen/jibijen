@@ -1,3 +1,6 @@
+![GitHub Octocat](https://octodex.github.com/images/desktop-octocat.gif)
+
+
 # Hey! Nice to see you. 👋
 
 Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer interested in **MERN Stack & GraphQL**.
