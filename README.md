@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer inte
 ## 🚀 About Me  
 - 💻 **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js), GraphQL  
 - 🛠 **Currently Learning**: TypeScript & Next.js  
-- 🌍 **Location**: Mumbai, India  
+- 🌍 **Location**: Bhubaneswar, India  
 - 💬 **Ask me about**: React, GraphQL, MongoDB  
 - 📫 **How to reach me**: 22cse.sitbbsr@gmail.com 
 
@@ -24,9 +24,20 @@ Welcome to my GitHub profile! I'm **JIBITESH JENA**, a passionate developer inte
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jibijen&show_icons=true&theme=dark)  
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jibijen&show_icons=true&theme=dark)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jibijen&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibijen&layout=compact&theme=dark)  
+
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jibijen&theme=darkhub&no-frame=true&margin-w=5)  
+
+## 📈 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jibijen&theme=react-dark&hide_border=true&area=true)  
+
+## 🚀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=jibijen&color=blue&style=flat)  
+
 
 ---
 
