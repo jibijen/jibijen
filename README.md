@@ -1,5 +1,4 @@
-![GitHub Octocat](https://octodex.github.com/images/desktop-octocat.gif)
-
+![GitHub Octocat](https://media.giphy.com/media/4Zo41lhzKt6iZ8xFq6/giphy.gif)
 
 # Hey! Nice to see you. 👋
 
