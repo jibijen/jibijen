@@ -9,7 +9,7 @@ This is jibitesh jena....
 - 🛠 **Currently Learning**: TypeScript & Next.js  
 - 🌍 **Location**: Bhubaneswar, India  
 - 💬 **Ask me about**: React, GraphQL, MongoDB  
-- 📫 **How to reach me**: 22cse.sitbbsr@gmail.com 
+- 📫 **How to reach me**: 22cse.sitbbsr@gmail.com && jjibitesh@gmail.com
 
 ---
 
